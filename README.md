@@ -1,13 +1,12 @@
 ### Pablo Fortes 
 
 #### Full Stack Developer from Mèxico
-> After studying computer science engineering i Cofounded [Visualma](https://visualma.com) to create Virtual Reality and Augmented Reality aplications, Web experiences, 3D Mapping video projections, video games and interactive experiencies.
+> After studying computer science engineering i Co-founded [Visualma](https://visualma.com) to create Web experiences, Virtual Reality and Augmented Reality aplications, 3D Mapping video projections, video games and interactive experiencies.
 
 <img align="right" alt="Decorative image of a cartoon programer" height="300px" src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/goroutines/svg/2.svg" />
 
 <p align="center">
-  :hot_pepper: :corn: :taco: :cactus: <br><br>
-  <img src="https://img.shields.io/static/v1?style=plastic&logo=appveyor&label=Web&message=Development">
+  :hot_pepper: :corn: :taco: :cactus: 
 </p>
 
 ```javascript
@@ -44,13 +43,14 @@ const FavoriteTech = {
   <summary>Hobbies :climbing_man:</summary>
   :climbing_man:	:tent: :control_knobs: :headphones:	:musical_keyboard:	
 </details>
-
+<code>
 <a href="https://twitter.com/pfortes">
-  <img align="left" alt="pfortes Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="pfortes Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
 <a href="https://visualma.com/youtube">
-  <img align="left" alt="Visualma videos on youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Visualma videos on youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">
 </a>
 <a href="https://soundcloud.com/onotoc">
-  <img align="left" alt="onotoc on soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />
+  <img align="left" alt="onotoc on soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg">
 </a>
+<!-- <img src="https://img.shields.io/static/v1?style=plastic&logo=appveyor&label=Web&message=Development"> -->
