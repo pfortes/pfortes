@@ -6,18 +6,18 @@
 #### Full Stack Developer from Mèxico
 > After studying computer science engineering i Co-founded [Visualma](https://visualma.com) to create Web experiences, Virtual Reality and Augmented Reality aplications, 3D Mapping video projections, video games and interactive experiencies.
 
-<img align="right" alt="Decorative image of a cartoon programer" height="300px" src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/goroutines/svg/2.svg" />
+<img align="right" alt="Image of a cartoon programer" height="300px" src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/goroutines/svg/2.svg" />
 
 ```javascript
 const FavoriteTech = {
-  code: ["Javascript", "HTML", "CSS", "Python", "PHP" ],
-  tools: ["React", "Node", "Next", "WebGL", "GraphQL"],
+  code: ["Javascript", "HTML", "CSS", "Python"],
+  tools: ["React", "Three", "Next", "WebGL", "WebXR"],
   and: ["UX", "SEO", "Analytics", "Social"]
 }
 ```
 ```css
 .dev + design {
-  content: 'I 🧡 FrontEnd design & css';
+  content: 'I 🧡  creating 3d web experiences, FrontEnd development, design & css';
 }
 ```
 
@@ -30,19 +30,13 @@ const FavoriteTech = {
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/electron/electron.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png">
 </code>
 <br><br>
 <details>
